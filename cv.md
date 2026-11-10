@@ -3,20 +3,21 @@
 **Elev, clasa a XII-a – Producție media**  
 Liceul Tehnologic „Grigore C. Moisil” Buzău · [GitHub](https://github.com/utilizator)
 
-> Un motto scurt, care spune ceva despre autor.
+> Cine vrea, are
 
 ---
 
 ## Despre mine
 
-Două-trei propoziții: ce activități îmi plac, la ce mă pricep, ce urmează după liceu.
+sportul,munca,plimbarile in aer liber
+dupa liceu vreau sa urmez Scoala Militara de Subofiteri de Jandarmi 'Petru Rares' Falticeni
 
 ## Educație
 
 | Perioada    | Școala                                 | Specializarea   |
 |-------------|----------------------------------------|-----------------|
 | 2023 – 2027 | Liceul Tehnologic „Grigore C. Moisil”  | Producție media |
-| 2015 – 2023 | Școala Gimnazială …                    | –               |
+| 2015 – 2023 | Școala Gimnazială nr 11                | –               |
 
 ## Competențe
 
